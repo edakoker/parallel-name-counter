@@ -1,5 +1,4 @@
  Author names: Naya Singhania, Gonul Koker
- Author emails: naya.singhania@sjsu.edu, gonul.koker@sjsu.edu
  Last modified date: October 13, 2025
 
  Purpose of code:This program, countnames_parallel, reads one or more text files specified as command-line arguments. It counts the occurrences of each name (one name per line) across all provided files.
